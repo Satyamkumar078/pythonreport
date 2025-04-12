@@ -1,0 +1,127 @@
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+import plotly.express as px
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import LabelEncoder, StandardScaler
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import classification_report, confusion_matrix, ConfusionMatrixDisplay, accuracy_score
+import warnings
+warnings.filterwarnings("ignore")
+
+# ---------------------- LOAD DATA ----------------------
+
+df = pd.read_csv("extended_human_activity_smart_home.csv")
+
+# ---------------------- CLEANING & PREPROCESSING ----------------------
+
+# Remove duplicates
+df.drop_duplicates(inplace=True)
+
+# Handle missing values
+df.fillna(method='ffill', inplace=True)
+
+# Convert timestamp
+df['Timestamp'] = pd.to_datetime(df['Timestamp'])
+
+# Handle Outliers only for columns that exist
+all_possible_cols = ['Temperature', 'Humidity', 'Light_Level', 'Sound_Level']
+numerical_cols = [col for col in all_possible_cols if col in df.columns]
+
+for col in numerical_cols:
+    Q1 = df[col].quantile(0.25)
+    Q3 = df[col].quantile(0.75)
+    IQR = Q3 - Q1
+    df = df[(df[col] >= Q1 - 1.5 * IQR) & (df[col] <= Q3 + 1.5 * IQR)]
+
+# Label Encoding
+le_room = LabelEncoder()
+le_activity = LabelEncoder()
+df['Room'] = le_room.fit_transform(df['Room'])
+df['Activity'] = le_activity.fit_transform(df['Activity'])
+
+# Add Hour feature
+df['Hour'] = df['Timestamp'].dt.hour
+
+# Add readable labels for plotting
+df['Activity_Label'] = le_activity.inverse_transform(df['Activity'])
+df['Room_Label'] = le_room.inverse_transform(df['Room'])
+
+# ---------------------- MODEL TRAINING ----------------------
+
+X = df.drop(['Activity', 'Timestamp', 'Activity_Label', 'Room_Label'], axis=1, errors='ignore')
+y = df['Activity']
+
+scaler = StandardScaler()
+X_scaled = scaler.fit_transform(X)
+
+X_train, X_test, y_train, y_test = train_test_split(X_scaled, y, test_size=0.2, random_state=42)
+
+clf = RandomForestClassifier()
+clf.fit(X_train, y_train)
+y_pred = clf.predict(X_test)
+
+# ---------------------- EVALUATION ----------------------
+
+print("Accuracy:", accuracy_score(y_test, y_pred))
+print("\nClassification Report:\n", classification_report(y_test, y_pred))
+
+ConfusionMatrixDisplay(confusion_matrix(y_test, y_pred)).plot()
+plt.title("Confusion Matrix")
+plt.show()
+
+# ---------------------- VISUALIZATIONS ----------------------
+
+sample_df = df.sample(300, random_state=42)
+
+# 1. Scatter: Temperature vs Light Level (if both exist)
+if 'Temperature' in df.columns and 'Light_Level' in df.columns:
+    fig1 = px.scatter(sample_df, x="Temperature", y="Light_Level", trendline="ols",
+                      title="Temperature vs Light Level (Sampled)")
+    fig1.show()
+
+# 2. Line: Temperature Over Time
+if 'Temperature' in df.columns:
+    df_sorted = df.sort_values("Timestamp")
+    sample_time_df = df_sorted.iloc[::int(len(df_sorted)/200)]
+    fig2 = px.line(sample_time_df, x="Timestamp", y="Temperature", title="Temperature Over Time (Sampled)")
+    fig2.show()
+
+# 3. Bar: Activity Count
+activity_counts = df['Activity'].value_counts()
+fig3 = px.bar(x=le_activity.inverse_transform(activity_counts.index), y=activity_counts.values,
+              labels={'x': 'Activity', 'y': 'Count'}, title="Activity Count (Sampled)")
+fig3.show()
+
+# 4. Histogram: Sound Level
+if 'Sound_Level' in df.columns:
+    fig4 = px.histogram(df.head(100), x="Sound_Level", title="Sound Level Distribution")
+    fig4.show()
+
+# 5. Pie: Room Distribution
+fig5 = px.pie(df, names='Room_Label', title='Room Distribution')
+fig5.show()
+
+# 6. Boxplot: Temperature by Room
+if 'Temperature' in df.columns:
+    fig6 = px.box(df, x="Room_Label", y="Temperature", title="Temperature by Room")
+    fig6.show()
+
+# 7. Heatmap: Correlation
+plt.figure(figsize=(10, 6))
+sns.heatmap(df.drop(['Timestamp', 'Activity_Label', 'Room_Label'], axis=1, errors='ignore').corr(), annot=True, cmap="coolwarm")
+plt.title("Correlation Heatmap")
+plt.show()
+
+# 8. Pairplot
+k = df.head(100)
+sample_pair_df = k.drop(['Timestamp', 'Activity_Label', 'Room_Label'], axis=1, errors='ignore').sample(80, random_state=3)
+sns.pairplot(sample_pair_df, diag_kind='kde')
+plt.suptitle("Pairplot (Sampled)", y=1.02)
+plt.show()
+
+# 9. Violin Plot: Light Level by Activity
+if 'Light_Level' in df.columns:
+    fig7 = px.violin(sample_df, x="Activity_Label", y="Light_Level", box=True, points="all",
+                     title="Light Level by Activity (Sampled)")
+    fig7.show()
