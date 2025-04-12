@@ -1,0 +1,1001 @@
+Timestamp,Room,Motion_Sensor,Temperature,Light_Level,Appliance_Usage,Activity
+2025-04-04 12:15:00,Kitchen,0,25.6,3,1,Cooking
+2025-04-04 22:10:00,Bedroom,0,18.5,9,0,Idle
+2025-04-01 10:09:00,Kitchen,0,22.7,64,1,Cleaning
+2025-04-05 21:23:00,Living Room,0,25.1,86,1,Watching TV
+2025-04-04 03:44:00,Bathroom,1,21.3,18,1,Showering
+2025-04-06 05:59:00,Living Room,1,25.1,59,1,Watching TV
+2025-04-06 09:04:00,Bedroom,0,18.7,19,1,Sleeping
+2025-04-03 15:30:00,Kitchen,0,26.7,55,0,Cooking
+2025-04-07 01:24:00,Bedroom,1,25.9,7,0,Idle
+2025-04-04 22:12:00,Bedroom,1,26.2,28,0,Reading
+2025-04-07 01:35:00,Bedroom,0,21.7,17,1,Idle
+2025-04-05 05:54:00,Kitchen,0,26.2,14,1,Cooking
+2025-04-01 23:41:00,Living Room,0,25.5,15,0,Idle
+2025-04-05 15:56:00,Living Room,0,20.6,79,1,Watching TV
+2025-04-07 04:12:00,Bedroom,0,26.7,24,1,Idle
+2025-04-02 14:28:00,Kitchen,0,25.0,10,1,Cleaning
+2025-04-03 00:05:00,Bathroom,0,19.0,30,0,Using Toilet
+2025-04-04 00:37:00,Living Room,1,24.4,5,1,Idle
+2025-04-03 03:20:00,Bathroom,0,27.3,81,1,Showering
+2025-04-06 06:34:00,Bathroom,0,18.4,76,0,Showering
+2025-04-01 22:34:00,Bedroom,1,26.5,14,0,Reading
+2025-04-06 19:51:00,Kitchen,1,26.4,94,1,Cooking
+2025-04-04 23:28:00,Living Room,0,20.5,30,0,Watching TV
+2025-04-04 10:41:00,Bathroom,0,27.5,92,1,Showering
+2025-04-08 01:13:00,Bedroom,1,27.6,69,0,Sleeping
+2025-04-04 13:46:00,Bedroom,1,23.6,79,0,Sleeping
+2025-04-01 15:41:00,Kitchen,0,19.2,1,1,Idle
+2025-04-03 06:13:00,Bedroom,1,18.6,25,1,Reading
+2025-04-06 22:30:00,Living Room,0,22.6,13,0,Relaxing
+2025-04-08 01:08:00,Bathroom,1,23.4,64,1,Using Toilet
+2025-04-05 21:27:00,Bathroom,0,24.5,63,0,Idle
+2025-04-02 15:44:00,Kitchen,1,19.4,88,0,Cleaning
+2025-04-07 19:59:00,Kitchen,0,20.4,35,1,Idle
+2025-04-01 06:21:00,Living Room,1,24.1,34,0,Watching TV
+2025-04-03 14:47:00,Bathroom,1,21.1,33,1,Using Toilet
+2025-04-04 10:02:00,Bedroom,0,21.5,39,1,Reading
+2025-04-07 14:21:00,Living Room,0,20.0,56,0,Idle
+2025-04-04 18:10:00,Living Room,1,27.7,73,1,Idle
+2025-04-07 22:35:00,Living Room,0,25.1,2,0,Relaxing
+2025-04-05 02:09:00,Bathroom,1,27.0,26,0,Idle
+2025-04-05 18:52:00,Bedroom,1,22.1,49,1,Idle
+2025-04-03 09:03:00,Living Room,0,27.5,83,1,Idle
+2025-04-01 16:16:00,Bathroom,0,18.1,40,0,Showering
+2025-04-02 02:48:00,Living Room,1,22.9,64,1,Relaxing
+2025-04-06 03:57:00,Bedroom,0,25.6,49,1,Idle
+2025-04-06 02:07:00,Kitchen,0,27.5,72,1,Cooking
+2025-04-01 08:03:00,Living Room,1,19.7,46,0,Watching TV
+2025-04-04 05:01:00,Kitchen,1,21.2,92,0,Cleaning
+2025-04-04 09:11:00,Living Room,0,20.7,24,1,Watching TV
+2025-04-01 15:30:00,Bathroom,0,24.2,37,1,Using Toilet
+2025-04-05 02:13:00,Bedroom,0,27.5,36,1,Reading
+2025-04-01 06:37:00,Bedroom,0,19.8,48,1,Sleeping
+2025-04-06 03:24:00,Kitchen,0,22.5,77,0,Cleaning
+2025-04-06 16:51:00,Living Room,1,21.8,15,1,Watching TV
+2025-04-07 19:46:00,Kitchen,0,18.9,4,1,Cooking
+2025-04-05 16:06:00,Bathroom,1,21.4,7,1,Idle
+2025-04-05 08:05:00,Bathroom,1,24.3,54,1,Showering
+2025-04-04 04:05:00,Bathroom,1,26.6,97,1,Idle
+2025-04-05 16:06:00,Kitchen,1,18.2,57,1,Cleaning
+2025-04-07 18:27:00,Bedroom,0,28.0,32,1,Sleeping
+2025-04-05 21:29:00,Bathroom,0,25.8,53,1,Showering
+2025-04-02 14:01:00,Bathroom,0,27.6,19,1,Idle
+2025-04-07 04:20:00,Living Room,0,21.4,60,0,Watching TV
+2025-04-05 20:39:00,Living Room,0,18.9,24,0,Idle
+2025-04-07 21:06:00,Bathroom,0,21.1,95,1,Using Toilet
+2025-04-02 03:57:00,Living Room,1,25.5,19,1,Watching TV
+2025-04-04 04:49:00,Bedroom,0,19.2,82,1,Sleeping
+2025-04-03 11:06:00,Bedroom,0,22.5,63,0,Reading
+2025-04-07 13:52:00,Living Room,0,25.1,0,0,Relaxing
+2025-04-03 16:22:00,Bathroom,1,25.3,41,0,Showering
+2025-04-03 20:04:00,Kitchen,0,23.3,55,0,Cooking
+2025-04-02 20:21:00,Bedroom,0,26.6,13,0,Reading
+2025-04-06 03:13:00,Living Room,0,21.3,94,1,Idle
+2025-04-05 17:10:00,Bedroom,0,23.2,83,0,Idle
+2025-04-06 06:15:00,Living Room,0,24.5,96,1,Idle
+2025-04-02 23:47:00,Living Room,0,24.8,73,1,Relaxing
+2025-04-04 20:34:00,Living Room,1,20.0,84,1,Relaxing
+2025-04-07 20:24:00,Kitchen,0,21.2,100,0,Cleaning
+2025-04-07 19:22:00,Bathroom,1,20.1,23,0,Showering
+2025-04-03 03:17:00,Bedroom,1,19.0,11,1,Sleeping
+2025-04-05 09:59:00,Living Room,1,27.7,66,1,Idle
+2025-04-02 11:52:00,Kitchen,1,23.3,89,0,Idle
+2025-04-04 11:24:00,Bedroom,0,21.4,46,0,Reading
+2025-04-02 02:51:00,Kitchen,0,19.4,10,0,Cleaning
+2025-04-01 18:40:00,Living Room,0,25.4,22,0,Idle
+2025-04-03 00:24:00,Kitchen,0,21.2,1,1,Cooking
+2025-04-05 02:00:00,Bathroom,1,21.4,73,0,Showering
+2025-04-04 12:30:00,Bedroom,1,18.4,25,1,Reading
+2025-04-07 20:31:00,Bedroom,1,19.3,98,1,Idle
+2025-04-01 06:24:00,Bedroom,0,24.1,12,0,Reading
+2025-04-05 22:39:00,Living Room,1,22.2,93,1,Relaxing
+2025-04-03 20:38:00,Bathroom,1,24.7,11,1,Using Toilet
+2025-04-06 06:17:00,Kitchen,1,23.8,96,0,Cooking
+2025-04-04 14:20:00,Living Room,0,22.1,66,1,Idle
+2025-04-06 09:45:00,Bathroom,1,21.7,64,0,Using Toilet
+2025-04-03 16:41:00,Kitchen,1,21.0,14,0,Cooking
+2025-04-02 11:19:00,Bedroom,0,22.8,69,0,Reading
+2025-04-07 10:54:00,Kitchen,0,19.0,98,0,Cooking
+2025-04-05 22:07:00,Kitchen,1,23.5,64,0,Idle
+2025-04-01 12:08:00,Living Room,0,27.9,96,1,Idle
+2025-04-07 05:15:00,Kitchen,0,18.4,91,0,Cooking
+2025-04-06 23:07:00,Kitchen,1,22.0,53,1,Cleaning
+2025-04-07 10:43:00,Bathroom,0,25.7,62,1,Using Toilet
+2025-04-01 16:15:00,Living Room,1,20.0,78,1,Relaxing
+2025-04-05 16:22:00,Kitchen,0,23.9,38,0,Cleaning
+2025-04-07 06:07:00,Kitchen,1,23.7,72,0,Cooking
+2025-04-02 03:09:00,Bedroom,0,27.0,12,1,Idle
+2025-04-04 00:47:00,Living Room,0,24.4,25,1,Relaxing
+2025-04-02 20:10:00,Bathroom,1,18.7,95,1,Idle
+2025-04-06 02:57:00,Bedroom,1,19.9,33,1,Sleeping
+2025-04-04 10:42:00,Kitchen,0,20.1,100,0,Idle
+2025-04-07 08:09:00,Bathroom,0,26.7,71,1,Idle
+2025-04-07 17:12:00,Bedroom,1,25.5,53,1,Idle
+2025-04-05 17:51:00,Living Room,1,24.1,40,1,Idle
+2025-04-07 01:23:00,Bedroom,0,18.5,22,1,Reading
+2025-04-05 19:25:00,Living Room,1,19.1,60,0,Relaxing
+2025-04-01 22:59:00,Bathroom,0,18.9,94,1,Showering
+2025-04-03 21:35:00,Bedroom,1,25.2,8,0,Sleeping
+2025-04-01 11:14:00,Living Room,1,20.4,88,1,Idle
+2025-04-07 12:01:00,Kitchen,0,27.5,46,1,Idle
+2025-04-05 10:49:00,Kitchen,1,23.3,19,0,Cooking
+2025-04-05 00:21:00,Bathroom,0,21.6,88,1,Using Toilet
+2025-04-07 02:40:00,Living Room,0,20.1,30,1,Watching TV
+2025-04-08 04:12:00,Bathroom,0,21.4,71,1,Using Toilet
+2025-04-01 09:43:00,Bedroom,0,22.5,50,1,Idle
+2025-04-05 12:12:00,Bedroom,1,20.7,54,0,Sleeping
+2025-04-05 20:38:00,Bedroom,1,26.1,65,1,Sleeping
+2025-04-02 14:03:00,Kitchen,0,21.6,25,1,Idle
+2025-04-06 02:03:00,Bedroom,0,26.9,4,0,Idle
+2025-04-02 04:20:00,Bathroom,0,27.4,24,0,Using Toilet
+2025-04-03 01:50:00,Kitchen,1,18.0,48,0,Idle
+2025-04-06 17:17:00,Living Room,0,19.6,0,1,Relaxing
+2025-04-03 14:32:00,Bathroom,0,27.4,43,1,Showering
+2025-04-01 16:52:00,Bathroom,0,20.1,62,1,Showering
+2025-04-03 17:14:00,Living Room,1,20.8,94,1,Relaxing
+2025-04-04 22:46:00,Bathroom,0,27.9,7,0,Showering
+2025-04-06 08:27:00,Living Room,0,26.9,60,1,Idle
+2025-04-01 12:51:00,Bathroom,0,23.6,84,1,Idle
+2025-04-07 02:07:00,Bathroom,1,24.0,92,1,Showering
+2025-04-04 11:35:00,Bathroom,0,19.8,93,1,Using Toilet
+2025-04-07 23:28:00,Living Room,1,25.1,16,0,Watching TV
+2025-04-04 20:41:00,Living Room,0,21.3,41,0,Idle
+2025-04-07 02:14:00,Bedroom,1,24.8,69,1,Reading
+2025-04-04 18:21:00,Kitchen,0,19.7,62,1,Cooking
+2025-04-07 13:16:00,Bedroom,0,27.0,19,0,Reading
+2025-04-02 05:39:00,Kitchen,0,21.4,75,0,Cooking
+2025-04-04 08:32:00,Bathroom,1,25.3,84,0,Idle
+2025-04-02 08:38:00,Kitchen,0,19.1,34,0,Idle
+2025-04-05 15:07:00,Bathroom,0,18.6,38,0,Idle
+2025-04-07 02:13:00,Bathroom,0,27.2,68,1,Using Toilet
+2025-04-04 19:23:00,Bedroom,1,23.3,48,0,Idle
+2025-04-05 14:07:00,Bathroom,1,21.1,88,0,Idle
+2025-04-08 00:59:00,Bathroom,1,22.0,78,1,Showering
+2025-04-02 01:45:00,Bathroom,1,27.4,15,1,Showering
+2025-04-03 20:55:00,Bedroom,1,27.7,5,0,Reading
+2025-04-07 01:55:00,Kitchen,0,19.3,32,1,Idle
+2025-04-02 04:27:00,Living Room,0,22.2,39,1,Watching TV
+2025-04-06 12:43:00,Bathroom,0,20.9,24,0,Showering
+2025-04-04 08:11:00,Living Room,0,19.7,2,1,Idle
+2025-04-01 21:20:00,Kitchen,1,20.3,60,1,Idle
+2025-04-06 19:45:00,Kitchen,1,22.6,83,1,Idle
+2025-04-01 22:59:00,Bedroom,0,18.7,58,1,Sleeping
+2025-04-04 19:12:00,Bathroom,0,19.2,4,1,Using Toilet
+2025-04-05 06:08:00,Bathroom,0,21.1,39,0,Showering
+2025-04-05 00:48:00,Bathroom,0,20.2,4,1,Using Toilet
+2025-04-05 10:54:00,Bedroom,0,26.7,89,0,Sleeping
+2025-04-07 18:31:00,Kitchen,0,24.5,99,0,Cleaning
+2025-04-03 03:39:00,Bedroom,1,19.4,4,0,Idle
+2025-04-05 06:47:00,Living Room,1,18.2,21,0,Relaxing
+2025-04-04 09:24:00,Living Room,0,21.8,4,1,Idle
+2025-04-06 07:11:00,Bathroom,1,22.3,66,1,Idle
+2025-04-04 22:29:00,Bathroom,1,26.5,90,0,Showering
+2025-04-05 14:48:00,Bedroom,1,21.1,26,1,Idle
+2025-04-06 05:39:00,Bathroom,1,24.7,74,1,Using Toilet
+2025-04-05 20:23:00,Kitchen,0,27.0,4,1,Cooking
+2025-04-04 07:34:00,Bedroom,1,23.8,16,1,Reading
+2025-04-02 12:23:00,Bathroom,0,23.2,80,0,Using Toilet
+2025-04-02 02:41:00,Living Room,1,20.8,30,1,Idle
+2025-04-07 21:57:00,Kitchen,1,22.8,40,0,Idle
+2025-04-01 07:30:00,Bedroom,1,20.5,74,0,Reading
+2025-04-06 12:31:00,Kitchen,0,27.8,23,1,Idle
+2025-04-02 14:06:00,Living Room,0,24.0,91,0,Relaxing
+2025-04-04 22:06:00,Living Room,0,21.5,96,0,Watching TV
+2025-04-01 22:13:00,Living Room,0,19.4,34,0,Relaxing
+2025-04-02 05:45:00,Bedroom,0,21.8,72,0,Idle
+2025-04-05 19:17:00,Kitchen,0,22.3,90,1,Cleaning
+2025-04-06 17:55:00,Bathroom,1,25.0,33,0,Using Toilet
+2025-04-07 23:35:00,Bathroom,1,22.2,24,0,Idle
+2025-04-07 11:53:00,Bedroom,1,26.4,1,1,Reading
+2025-04-04 15:58:00,Bathroom,1,23.8,0,1,Idle
+2025-04-05 07:18:00,Bathroom,1,18.5,33,1,Using Toilet
+2025-04-05 15:39:00,Living Room,1,21.6,20,0,Watching TV
+2025-04-01 23:04:00,Living Room,0,23.2,100,1,Relaxing
+2025-04-07 15:29:00,Living Room,0,20.2,89,0,Idle
+2025-04-07 18:49:00,Bathroom,0,25.8,49,1,Idle
+2025-04-04 00:12:00,Kitchen,1,28.0,17,1,Cooking
+2025-04-06 06:40:00,Kitchen,1,21.6,43,1,Cleaning
+2025-04-08 03:15:00,Bedroom,0,18.7,100,1,Sleeping
+2025-04-03 15:19:00,Bathroom,1,23.9,68,1,Idle
+2025-04-04 12:15:00,Kitchen,1,23.3,37,1,Idle
+2025-04-01 21:02:00,Kitchen,1,23.8,83,1,Cooking
+2025-04-06 10:30:00,Living Room,0,26.5,63,1,Idle
+2025-04-08 00:24:00,Living Room,1,25.7,38,0,Idle
+2025-04-04 01:38:00,Bedroom,0,21.8,81,0,Sleeping
+2025-04-08 03:42:00,Kitchen,0,24.9,50,0,Cooking
+2025-04-06 04:14:00,Living Room,0,25.5,86,1,Relaxing
+2025-04-08 03:30:00,Bedroom,1,27.6,55,1,Idle
+2025-04-07 23:36:00,Bedroom,0,22.0,25,0,Reading
+2025-04-03 12:45:00,Bedroom,0,26.9,76,0,Reading
+2025-04-07 13:03:00,Bedroom,1,27.5,81,0,Idle
+2025-04-05 22:10:00,Bathroom,1,19.3,29,1,Showering
+2025-04-08 01:37:00,Bathroom,1,23.7,87,0,Idle
+2025-04-02 01:24:00,Bathroom,1,25.0,16,0,Showering
+2025-04-08 00:17:00,Kitchen,1,18.5,55,0,Cooking
+2025-04-06 08:41:00,Bedroom,1,23.2,10,0,Sleeping
+2025-04-03 11:47:00,Bedroom,1,22.9,46,0,Idle
+2025-04-08 00:43:00,Living Room,1,23.2,14,1,Watching TV
+2025-04-06 04:33:00,Kitchen,1,18.3,71,0,Cooking
+2025-04-02 15:53:00,Living Room,0,20.6,2,1,Relaxing
+2025-04-06 00:59:00,Kitchen,1,20.1,86,1,Idle
+2025-04-07 04:31:00,Bathroom,0,27.7,16,1,Using Toilet
+2025-04-06 20:23:00,Bedroom,0,21.3,28,0,Reading
+2025-04-03 18:56:00,Bathroom,0,21.9,86,1,Idle
+2025-04-03 07:17:00,Kitchen,1,22.4,32,0,Idle
+2025-04-04 22:48:00,Living Room,1,25.6,97,0,Idle
+2025-04-05 06:22:00,Kitchen,0,18.5,4,1,Cooking
+2025-04-06 16:01:00,Kitchen,1,22.2,49,1,Idle
+2025-04-01 22:25:00,Bathroom,1,20.1,42,0,Idle
+2025-04-05 15:11:00,Bedroom,0,18.6,54,1,Reading
+2025-04-05 17:06:00,Bathroom,1,20.7,16,1,Idle
+2025-04-02 03:35:00,Bedroom,0,21.1,69,0,Sleeping
+2025-04-03 14:39:00,Bathroom,1,24.5,69,0,Showering
+2025-04-01 14:09:00,Bedroom,1,18.3,8,0,Reading
+2025-04-02 02:06:00,Bedroom,0,27.2,30,0,Reading
+2025-04-03 12:07:00,Bedroom,0,21.6,86,1,Idle
+2025-04-06 20:03:00,Living Room,1,25.6,45,0,Relaxing
+2025-04-05 03:39:00,Kitchen,0,18.1,1,0,Cooking
+2025-04-04 17:50:00,Bathroom,0,23.3,26,0,Showering
+2025-04-07 03:49:00,Bedroom,0,27.6,25,1,Idle
+2025-04-01 06:41:00,Living Room,1,23.6,97,0,Watching TV
+2025-04-07 22:26:00,Kitchen,1,18.2,24,0,Idle
+2025-04-03 14:53:00,Bathroom,0,21.4,93,0,Showering
+2025-04-06 05:13:00,Bedroom,0,19.1,10,0,Reading
+2025-04-05 22:34:00,Living Room,0,25.7,98,0,Relaxing
+2025-04-07 17:19:00,Living Room,1,25.7,2,1,Watching TV
+2025-04-03 12:06:00,Bedroom,0,26.8,69,1,Idle
+2025-04-01 16:43:00,Kitchen,0,23.3,26,0,Cooking
+2025-04-02 08:25:00,Bedroom,0,26.0,89,1,Idle
+2025-04-05 11:10:00,Bathroom,0,26.3,79,0,Showering
+2025-04-08 00:26:00,Living Room,0,24.8,81,1,Relaxing
+2025-04-04 13:36:00,Bathroom,0,24.2,83,1,Idle
+2025-04-04 03:18:00,Kitchen,0,24.5,94,1,Cleaning
+2025-04-07 09:22:00,Living Room,1,26.7,33,1,Idle
+2025-04-01 19:09:00,Bedroom,0,19.0,6,1,Sleeping
+2025-04-04 10:04:00,Kitchen,0,25.2,75,0,Idle
+2025-04-07 04:10:00,Kitchen,0,27.2,19,1,Cooking
+2025-04-02 09:18:00,Living Room,1,24.4,93,1,Idle
+2025-04-05 05:28:00,Bathroom,0,26.8,93,0,Using Toilet
+2025-04-02 23:36:00,Bedroom,0,25.2,94,0,Sleeping
+2025-04-04 03:50:00,Bathroom,0,24.5,72,1,Idle
+2025-04-01 11:16:00,Bathroom,0,21.9,71,1,Using Toilet
+2025-04-04 06:35:00,Living Room,1,27.6,18,0,Idle
+2025-04-05 07:32:00,Kitchen,1,22.5,92,1,Cooking
+2025-04-05 07:34:00,Kitchen,0,24.8,28,0,Idle
+2025-04-05 02:45:00,Bathroom,0,23.6,80,1,Using Toilet
+2025-04-06 17:11:00,Kitchen,1,19.3,17,1,Cooking
+2025-04-02 18:49:00,Living Room,1,20.0,46,0,Idle
+2025-04-05 04:01:00,Living Room,0,18.6,40,0,Idle
+2025-04-02 15:10:00,Living Room,0,18.8,89,1,Idle
+2025-04-02 04:52:00,Living Room,0,18.2,38,0,Idle
+2025-04-05 13:17:00,Bedroom,0,26.4,53,1,Idle
+2025-04-06 17:34:00,Kitchen,1,18.3,76,0,Cleaning
+2025-04-01 07:57:00,Living Room,1,18.8,85,1,Idle
+2025-04-04 12:09:00,Bedroom,0,20.3,0,0,Reading
+2025-04-08 02:35:00,Bathroom,0,25.2,19,1,Idle
+2025-04-03 22:38:00,Bedroom,0,22.7,98,1,Idle
+2025-04-04 13:38:00,Kitchen,1,24.2,7,1,Idle
+2025-04-05 10:17:00,Kitchen,1,23.1,3,0,Idle
+2025-04-02 04:24:00,Bedroom,1,18.1,83,1,Reading
+2025-04-07 22:15:00,Bathroom,1,27.1,88,1,Showering
+2025-04-03 18:35:00,Bathroom,0,21.9,97,0,Idle
+2025-04-06 04:20:00,Bathroom,0,27.7,37,0,Using Toilet
+2025-04-03 17:14:00,Bedroom,0,19.2,91,1,Idle
+2025-04-06 11:39:00,Kitchen,0,19.8,17,1,Cooking
+2025-04-07 03:14:00,Bathroom,1,27.3,16,0,Showering
+2025-04-03 10:14:00,Bathroom,1,21.2,43,0,Using Toilet
+2025-04-01 18:40:00,Bedroom,1,26.4,83,0,Sleeping
+2025-04-04 08:10:00,Kitchen,1,26.1,17,0,Cooking
+2025-04-01 09:52:00,Living Room,1,24.2,99,0,Idle
+2025-04-07 17:39:00,Bathroom,1,21.3,45,0,Showering
+2025-04-03 00:41:00,Living Room,0,18.6,70,0,Watching TV
+2025-04-07 11:02:00,Living Room,0,20.5,67,1,Idle
+2025-04-05 21:51:00,Kitchen,1,23.1,43,1,Cleaning
+2025-04-04 21:02:00,Kitchen,0,25.1,6,0,Cleaning
+2025-04-04 16:23:00,Kitchen,1,19.4,60,1,Idle
+2025-04-07 10:46:00,Living Room,1,26.8,18,1,Watching TV
+2025-04-02 06:12:00,Kitchen,1,20.1,62,1,Idle
+2025-04-06 00:27:00,Bathroom,0,25.5,99,1,Idle
+2025-04-05 19:12:00,Bathroom,0,25.3,27,1,Using Toilet
+2025-04-07 21:32:00,Bedroom,1,26.8,26,1,Reading
+2025-04-04 08:24:00,Bathroom,0,24.0,14,1,Using Toilet
+2025-04-07 05:41:00,Living Room,1,19.7,83,1,Watching TV
+2025-04-04 10:32:00,Bedroom,0,27.0,32,1,Sleeping
+2025-04-05 15:49:00,Kitchen,1,20.5,12,1,Idle
+2025-04-05 03:50:00,Kitchen,0,27.5,54,0,Cleaning
+2025-04-01 10:24:00,Bathroom,0,18.4,33,1,Using Toilet
+2025-04-06 00:23:00,Kitchen,0,22.5,69,1,Cooking
+2025-04-06 15:43:00,Living Room,0,18.4,29,1,Watching TV
+2025-04-05 00:20:00,Living Room,1,24.4,57,1,Watching TV
+2025-04-03 23:12:00,Bathroom,0,26.9,33,0,Idle
+2025-04-01 07:39:00,Living Room,1,26.1,9,1,Relaxing
+2025-04-06 13:12:00,Bedroom,1,21.9,5,1,Sleeping
+2025-04-01 19:13:00,Bathroom,1,19.2,25,1,Idle
+2025-04-01 12:09:00,Bedroom,1,27.7,58,0,Reading
+2025-04-02 08:29:00,Kitchen,0,23.3,100,1,Cooking
+2025-04-07 21:27:00,Kitchen,0,25.0,61,0,Cleaning
+2025-04-04 09:40:00,Bathroom,1,19.7,75,1,Idle
+2025-04-04 19:30:00,Bathroom,1,25.6,95,0,Idle
+2025-04-07 18:19:00,Kitchen,0,24.0,15,1,Cooking
+2025-04-07 19:14:00,Bedroom,1,26.1,20,1,Sleeping
+2025-04-01 22:08:00,Bathroom,0,27.0,40,0,Showering
+2025-04-02 06:59:00,Bathroom,0,22.5,99,0,Using Toilet
+2025-04-06 19:56:00,Kitchen,0,21.0,30,1,Idle
+2025-04-07 06:05:00,Bathroom,0,19.9,73,1,Idle
+2025-04-02 02:30:00,Bedroom,0,20.1,13,1,Idle
+2025-04-02 00:44:00,Bedroom,1,21.4,68,0,Sleeping
+2025-04-03 04:43:00,Bedroom,0,22.6,26,0,Idle
+2025-04-05 13:50:00,Bedroom,1,25.0,33,0,Reading
+2025-04-06 04:24:00,Bathroom,1,21.9,20,1,Using Toilet
+2025-04-05 11:11:00,Bedroom,1,18.9,66,1,Sleeping
+2025-04-06 22:53:00,Living Room,0,27.3,35,0,Watching TV
+2025-04-07 15:47:00,Kitchen,1,22.5,28,0,Idle
+2025-04-01 17:53:00,Living Room,0,22.9,49,1,Idle
+2025-04-05 04:46:00,Bedroom,1,22.8,68,1,Reading
+2025-04-04 13:22:00,Bathroom,1,18.7,20,1,Idle
+2025-04-01 13:09:00,Bathroom,1,26.2,74,0,Showering
+2025-04-05 14:59:00,Living Room,0,28.0,97,0,Watching TV
+2025-04-02 13:00:00,Bedroom,0,18.9,59,0,Sleeping
+2025-04-03 10:30:00,Living Room,1,19.9,59,1,Relaxing
+2025-04-04 21:12:00,Bedroom,1,23.2,96,1,Reading
+2025-04-04 18:07:00,Bedroom,0,22.8,19,0,Idle
+2025-04-07 02:00:00,Bedroom,0,19.6,14,1,Idle
+2025-04-01 12:36:00,Living Room,0,22.8,49,0,Idle
+2025-04-04 18:06:00,Bedroom,0,20.0,93,1,Idle
+2025-04-07 19:08:00,Living Room,0,18.2,46,1,Relaxing
+2025-04-05 19:59:00,Bathroom,1,23.7,76,1,Using Toilet
+2025-04-01 22:22:00,Living Room,1,23.8,87,1,Watching TV
+2025-04-04 16:07:00,Kitchen,1,26.5,14,0,Cooking
+2025-04-03 18:37:00,Bathroom,0,24.6,57,1,Idle
+2025-04-06 17:11:00,Bedroom,0,25.1,52,0,Idle
+2025-04-07 11:18:00,Living Room,1,23.9,17,0,Idle
+2025-04-03 09:55:00,Kitchen,1,26.5,78,0,Cleaning
+2025-04-06 01:40:00,Kitchen,0,25.4,18,0,Idle
+2025-04-06 23:19:00,Kitchen,1,27.3,88,0,Cooking
+2025-04-04 18:47:00,Bedroom,0,18.2,23,1,Idle
+2025-04-03 04:22:00,Bedroom,1,21.9,56,0,Sleeping
+2025-04-07 14:32:00,Bedroom,0,18.2,52,1,Idle
+2025-04-02 09:46:00,Living Room,1,19.4,45,0,Watching TV
+2025-04-03 06:59:00,Kitchen,0,18.6,23,1,Cooking
+2025-04-07 07:25:00,Bedroom,0,24.7,91,1,Idle
+2025-04-05 05:25:00,Bedroom,0,23.1,87,0,Idle
+2025-04-07 18:51:00,Living Room,0,19.9,68,1,Idle
+2025-04-06 07:14:00,Kitchen,0,20.6,73,1,Idle
+2025-04-04 14:21:00,Kitchen,0,20.6,29,1,Idle
+2025-04-06 05:15:00,Bedroom,1,26.5,39,0,Sleeping
+2025-04-05 22:20:00,Bedroom,0,20.8,44,0,Reading
+2025-04-01 09:22:00,Living Room,0,23.5,73,0,Watching TV
+2025-04-04 04:12:00,Bedroom,0,24.0,57,1,Reading
+2025-04-06 23:46:00,Bedroom,1,26.6,49,1,Sleeping
+2025-04-05 01:43:00,Bedroom,1,26.2,72,1,Idle
+2025-04-06 19:13:00,Bathroom,0,23.9,38,1,Idle
+2025-04-07 03:16:00,Bedroom,0,23.0,5,1,Sleeping
+2025-04-07 14:29:00,Bedroom,0,21.0,46,1,Idle
+2025-04-01 07:02:00,Bedroom,1,27.6,34,0,Reading
+2025-04-06 13:18:00,Kitchen,1,19.4,97,0,Cooking
+2025-04-03 05:27:00,Bathroom,1,19.9,70,0,Idle
+2025-04-07 01:18:00,Bathroom,1,21.2,75,1,Using Toilet
+2025-04-03 22:30:00,Bathroom,1,21.9,53,1,Idle
+2025-04-05 13:14:00,Bedroom,1,22.0,17,0,Reading
+2025-04-01 20:16:00,Kitchen,1,18.1,68,0,Cleaning
+2025-04-01 14:27:00,Bedroom,1,23.6,22,1,Sleeping
+2025-04-05 07:55:00,Living Room,1,26.8,5,1,Idle
+2025-04-06 11:27:00,Bathroom,1,21.4,47,0,Using Toilet
+2025-04-01 07:24:00,Bathroom,0,19.9,85,1,Using Toilet
+2025-04-06 03:49:00,Living Room,1,26.2,49,1,Relaxing
+2025-04-05 17:48:00,Bedroom,0,25.0,18,0,Sleeping
+2025-04-05 12:01:00,Bathroom,0,24.8,80,0,Showering
+2025-04-02 18:58:00,Kitchen,0,26.9,93,0,Cleaning
+2025-04-05 11:26:00,Living Room,1,24.5,13,1,Idle
+2025-04-03 03:47:00,Kitchen,0,19.5,28,1,Idle
+2025-04-03 17:31:00,Kitchen,1,24.4,92,0,Idle
+2025-04-07 04:41:00,Living Room,0,25.9,12,0,Watching TV
+2025-04-08 02:39:00,Living Room,0,21.6,5,0,Idle
+2025-04-03 07:02:00,Bedroom,1,21.2,68,1,Reading
+2025-04-06 02:09:00,Kitchen,1,19.4,66,0,Cooking
+2025-04-02 06:50:00,Living Room,1,25.8,19,1,Idle
+2025-04-08 04:34:00,Bedroom,0,26.7,52,0,Sleeping
+2025-04-08 02:33:00,Living Room,0,25.8,13,1,Watching TV
+2025-04-02 00:08:00,Kitchen,0,20.1,92,0,Idle
+2025-04-05 06:55:00,Bedroom,1,24.6,53,1,Reading
+2025-04-01 17:04:00,Bedroom,0,27.1,69,1,Reading
+2025-04-06 15:07:00,Living Room,1,25.3,80,0,Relaxing
+2025-04-01 08:32:00,Bedroom,1,25.9,74,1,Idle
+2025-04-07 20:45:00,Living Room,1,19.3,13,0,Relaxing
+2025-04-03 19:38:00,Kitchen,1,26.0,41,0,Idle
+2025-04-06 12:47:00,Bedroom,1,27.0,64,0,Reading
+2025-04-03 18:23:00,Bathroom,0,22.9,71,0,Idle
+2025-04-06 01:37:00,Bathroom,0,26.3,45,1,Using Toilet
+2025-04-07 22:00:00,Bathroom,0,22.4,54,0,Idle
+2025-04-06 23:08:00,Living Room,1,20.1,47,1,Watching TV
+2025-04-03 05:48:00,Kitchen,0,19.6,75,0,Cleaning
+2025-04-05 11:12:00,Living Room,1,22.9,29,0,Relaxing
+2025-04-02 16:19:00,Bedroom,1,18.3,39,0,Reading
+2025-04-03 07:57:00,Kitchen,1,22.7,69,1,Cooking
+2025-04-06 15:14:00,Living Room,0,18.6,62,0,Idle
+2025-04-05 18:46:00,Bedroom,0,24.5,37,0,Idle
+2025-04-01 17:32:00,Living Room,1,21.8,22,0,Relaxing
+2025-04-04 14:59:00,Bedroom,1,18.5,50,1,Sleeping
+2025-04-01 19:08:00,Living Room,0,27.9,32,1,Idle
+2025-04-04 02:39:00,Kitchen,0,23.8,46,1,Idle
+2025-04-07 03:03:00,Living Room,1,24.6,38,1,Relaxing
+2025-04-01 15:02:00,Living Room,0,19.9,91,0,Idle
+2025-04-03 22:05:00,Living Room,1,26.7,28,1,Watching TV
+2025-04-04 12:17:00,Living Room,0,25.2,56,1,Idle
+2025-04-07 12:20:00,Living Room,0,23.3,2,0,Relaxing
+2025-04-02 18:22:00,Living Room,0,22.3,94,0,Idle
+2025-04-02 14:17:00,Bathroom,0,22.6,34,0,Idle
+2025-04-02 04:37:00,Bedroom,1,21.2,14,0,Reading
+2025-04-06 14:31:00,Bedroom,1,23.6,34,1,Sleeping
+2025-04-01 19:06:00,Bedroom,1,20.7,61,1,Reading
+2025-04-03 04:43:00,Bathroom,0,22.5,95,1,Idle
+2025-04-06 18:25:00,Bedroom,1,22.7,4,0,Reading
+2025-04-05 06:21:00,Bedroom,1,26.2,73,1,Reading
+2025-04-03 19:32:00,Bedroom,0,19.2,66,1,Reading
+2025-04-05 21:42:00,Living Room,0,21.4,9,1,Relaxing
+2025-04-04 16:03:00,Bathroom,1,21.0,86,1,Using Toilet
+2025-04-02 09:48:00,Living Room,0,19.1,47,0,Idle
+2025-04-06 07:38:00,Living Room,1,18.4,4,0,Relaxing
+2025-04-06 20:56:00,Bedroom,0,21.8,97,1,Sleeping
+2025-04-05 11:50:00,Living Room,0,27.5,100,1,Watching TV
+2025-04-02 06:29:00,Kitchen,0,26.9,37,1,Idle
+2025-04-01 19:41:00,Kitchen,1,21.1,96,1,Cooking
+2025-04-06 17:25:00,Kitchen,0,19.8,50,1,Cooking
+2025-04-08 02:30:00,Bedroom,1,19.3,13,1,Reading
+2025-04-06 13:00:00,Living Room,0,20.4,34,1,Relaxing
+2025-04-04 11:08:00,Bedroom,0,21.1,83,1,Reading
+2025-04-02 21:25:00,Bedroom,1,21.7,73,1,Idle
+2025-04-03 04:10:00,Bathroom,0,21.9,67,1,Idle
+2025-04-02 16:00:00,Kitchen,1,20.4,34,1,Cleaning
+2025-04-01 07:58:00,Bathroom,0,25.3,29,1,Idle
+2025-04-06 05:25:00,Living Room,1,21.9,27,0,Watching TV
+2025-04-04 15:10:00,Bathroom,1,18.4,97,1,Using Toilet
+2025-04-03 13:54:00,Bathroom,0,18.2,12,1,Using Toilet
+2025-04-06 22:18:00,Bedroom,1,19.4,92,1,Idle
+2025-04-07 00:00:00,Living Room,1,24.1,73,0,Idle
+2025-04-01 08:46:00,Kitchen,0,22.1,53,0,Cooking
+2025-04-05 17:09:00,Bathroom,0,23.2,88,0,Showering
+2025-04-07 11:16:00,Bedroom,0,24.8,51,1,Idle
+2025-04-03 02:57:00,Bedroom,1,20.6,60,0,Sleeping
+2025-04-03 09:49:00,Living Room,1,18.4,16,0,Watching TV
+2025-04-04 19:53:00,Bedroom,0,18.2,22,1,Idle
+2025-04-06 18:06:00,Living Room,0,23.7,72,0,Idle
+2025-04-03 23:45:00,Kitchen,0,22.2,8,1,Cleaning
+2025-04-06 06:25:00,Living Room,1,21.4,62,0,Watching TV
+2025-04-02 18:21:00,Bedroom,1,18.3,31,1,Reading
+2025-04-07 04:17:00,Bathroom,0,25.6,7,0,Showering
+2025-04-05 04:46:00,Bedroom,0,22.2,78,0,Reading
+2025-04-05 01:40:00,Bathroom,0,26.5,56,0,Using Toilet
+2025-04-02 14:34:00,Living Room,0,24.7,25,1,Relaxing
+2025-04-06 19:02:00,Living Room,0,19.7,79,1,Idle
+2025-04-04 17:25:00,Bedroom,1,19.6,81,0,Reading
+2025-04-03 17:28:00,Bathroom,0,18.6,5,0,Showering
+2025-04-05 06:13:00,Bathroom,0,18.7,77,0,Idle
+2025-04-01 20:51:00,Bathroom,0,23.8,72,1,Showering
+2025-04-02 12:33:00,Bedroom,0,21.7,34,0,Sleeping
+2025-04-07 17:37:00,Bedroom,1,27.1,32,0,Sleeping
+2025-04-07 03:41:00,Living Room,0,21.0,59,0,Relaxing
+2025-04-05 19:05:00,Kitchen,1,19.3,26,1,Idle
+2025-04-02 18:15:00,Bedroom,1,23.5,90,0,Idle
+2025-04-03 07:53:00,Bedroom,0,24.3,47,0,Idle
+2025-04-01 18:20:00,Living Room,0,25.7,26,0,Idle
+2025-04-02 00:21:00,Kitchen,1,23.8,60,0,Cleaning
+2025-04-03 00:30:00,Living Room,0,24.7,58,1,Watching TV
+2025-04-07 04:18:00,Bathroom,1,20.2,91,1,Idle
+2025-04-07 05:56:00,Living Room,0,20.8,92,0,Idle
+2025-04-02 23:10:00,Bedroom,0,26.8,96,0,Reading
+2025-04-07 21:14:00,Bedroom,1,25.6,70,0,Reading
+2025-04-05 23:32:00,Kitchen,1,22.8,24,1,Cooking
+2025-04-05 20:02:00,Bathroom,1,26.8,74,0,Using Toilet
+2025-04-01 18:56:00,Bathroom,1,21.5,31,0,Using Toilet
+2025-04-01 19:52:00,Bathroom,0,25.7,12,0,Showering
+2025-04-03 04:28:00,Kitchen,1,20.4,7,0,Idle
+2025-04-07 19:06:00,Living Room,0,19.9,26,0,Idle
+2025-04-05 05:01:00,Kitchen,0,19.7,70,1,Cleaning
+2025-04-02 11:56:00,Bedroom,1,24.0,17,0,Sleeping
+2025-04-06 12:37:00,Bathroom,1,26.9,66,0,Idle
+2025-04-06 06:29:00,Kitchen,0,27.1,39,0,Cleaning
+2025-04-04 19:02:00,Bathroom,1,21.8,12,1,Idle
+2025-04-07 21:22:00,Kitchen,1,26.4,15,0,Cleaning
+2025-04-01 13:05:00,Bathroom,1,24.9,51,1,Using Toilet
+2025-04-03 01:24:00,Bedroom,0,24.0,11,0,Reading
+2025-04-02 21:39:00,Kitchen,1,27.5,1,1,Cleaning
+2025-04-01 07:08:00,Bedroom,0,25.2,67,0,Idle
+2025-04-05 21:03:00,Kitchen,1,20.5,75,1,Cooking
+2025-04-08 00:47:00,Living Room,1,27.1,24,0,Relaxing
+2025-04-05 14:15:00,Bedroom,0,25.8,17,1,Sleeping
+2025-04-03 04:58:00,Living Room,0,27.5,10,1,Relaxing
+2025-04-03 04:11:00,Kitchen,1,22.4,42,1,Cleaning
+2025-04-03 02:53:00,Bedroom,0,25.2,54,0,Idle
+2025-04-01 18:39:00,Living Room,0,22.1,89,0,Watching TV
+2025-04-01 22:09:00,Living Room,0,22.0,68,0,Idle
+2025-04-02 22:07:00,Bedroom,0,21.1,79,1,Idle
+2025-04-05 15:29:00,Bedroom,1,27.2,96,1,Sleeping
+2025-04-01 12:49:00,Kitchen,0,21.2,23,1,Cleaning
+2025-04-02 02:25:00,Living Room,1,23.8,32,1,Relaxing
+2025-04-02 17:41:00,Bedroom,0,27.3,67,1,Idle
+2025-04-06 09:28:00,Bathroom,1,20.5,67,1,Idle
+2025-04-01 16:09:00,Living Room,0,27.5,6,0,Relaxing
+2025-04-07 05:10:00,Living Room,1,25.2,84,0,Relaxing
+2025-04-01 14:32:00,Bedroom,0,20.2,49,0,Idle
+2025-04-06 16:00:00,Bathroom,0,21.3,30,1,Showering
+2025-04-06 15:10:00,Living Room,0,20.1,38,0,Idle
+2025-04-05 04:46:00,Bedroom,1,23.7,92,1,Idle
+2025-04-01 18:33:00,Bathroom,1,18.1,94,0,Idle
+2025-04-04 19:25:00,Living Room,0,19.7,89,1,Watching TV
+2025-04-04 05:32:00,Living Room,1,19.5,77,0,Idle
+2025-04-05 12:07:00,Kitchen,1,26.7,5,0,Cooking
+2025-04-04 07:21:00,Living Room,1,25.9,51,1,Watching TV
+2025-04-04 19:06:00,Bedroom,1,25.6,71,1,Idle
+2025-04-04 17:32:00,Living Room,1,18.6,83,0,Watching TV
+2025-04-07 07:28:00,Living Room,0,22.7,21,1,Watching TV
+2025-04-06 15:55:00,Living Room,0,26.2,65,0,Idle
+2025-04-04 17:33:00,Living Room,0,24.9,94,1,Relaxing
+2025-04-07 01:56:00,Kitchen,1,26.7,100,0,Idle
+2025-04-05 20:33:00,Living Room,1,26.0,36,0,Idle
+2025-04-03 09:27:00,Bathroom,0,26.6,54,0,Showering
+2025-04-05 13:19:00,Bathroom,1,23.4,55,0,Idle
+2025-04-07 10:45:00,Kitchen,1,24.1,87,0,Cleaning
+2025-04-01 22:48:00,Bedroom,0,20.2,64,1,Idle
+2025-04-06 10:07:00,Living Room,0,25.5,26,0,Relaxing
+2025-04-07 00:12:00,Kitchen,0,25.1,14,1,Cooking
+2025-04-07 18:46:00,Bathroom,1,25.0,17,0,Showering
+2025-04-02 23:58:00,Bedroom,0,25.2,49,1,Idle
+2025-04-02 15:04:00,Bathroom,1,27.7,82,0,Showering
+2025-04-06 05:04:00,Bedroom,1,26.2,81,1,Idle
+2025-04-03 08:14:00,Bathroom,0,20.0,62,0,Using Toilet
+2025-04-03 08:31:00,Kitchen,0,18.4,63,1,Cooking
+2025-04-02 01:32:00,Living Room,0,27.4,27,1,Idle
+2025-04-07 16:16:00,Bedroom,1,18.2,89,0,Idle
+2025-04-07 17:08:00,Bedroom,1,24.8,55,1,Idle
+2025-04-03 08:33:00,Living Room,0,26.8,17,0,Watching TV
+2025-04-02 12:26:00,Bedroom,0,19.4,72,0,Idle
+2025-04-06 08:40:00,Kitchen,0,19.5,3,1,Cooking
+2025-04-06 18:08:00,Kitchen,0,20.2,27,1,Idle
+2025-04-07 21:38:00,Bedroom,1,20.4,53,0,Sleeping
+2025-04-08 00:55:00,Kitchen,0,26.7,87,0,Cleaning
+2025-04-03 21:56:00,Bathroom,0,18.5,78,0,Idle
+2025-04-02 13:21:00,Living Room,1,25.7,18,0,Watching TV
+2025-04-03 05:17:00,Kitchen,0,27.0,62,1,Cleaning
+2025-04-01 07:02:00,Living Room,0,27.3,99,1,Watching TV
+2025-04-06 12:01:00,Bathroom,0,27.8,70,0,Using Toilet
+2025-04-03 13:41:00,Kitchen,0,21.5,43,1,Cooking
+2025-04-02 22:29:00,Living Room,1,19.3,92,1,Idle
+2025-04-05 21:38:00,Living Room,1,20.3,26,1,Watching TV
+2025-04-01 14:14:00,Kitchen,0,19.3,38,1,Idle
+2025-04-05 18:33:00,Kitchen,1,23.9,84,1,Idle
+2025-04-04 18:34:00,Kitchen,0,21.3,72,0,Cleaning
+2025-04-06 16:44:00,Kitchen,0,20.0,73,0,Cooking
+2025-04-06 18:26:00,Bedroom,1,20.0,23,0,Reading
+2025-04-05 19:16:00,Kitchen,1,20.8,72,0,Idle
+2025-04-04 22:05:00,Bathroom,0,23.2,7,1,Showering
+2025-04-07 02:31:00,Bathroom,1,22.6,97,0,Idle
+2025-04-03 12:07:00,Bathroom,0,25.2,17,1,Showering
+2025-04-06 11:07:00,Bedroom,1,21.1,10,0,Idle
+2025-04-01 16:24:00,Bathroom,0,23.4,65,0,Showering
+2025-04-07 22:22:00,Kitchen,1,27.4,96,1,Cooking
+2025-04-07 16:19:00,Bedroom,1,18.7,51,1,Reading
+2025-04-03 01:38:00,Living Room,1,21.8,1,0,Idle
+2025-04-06 11:52:00,Living Room,1,18.3,20,0,Watching TV
+2025-04-05 04:53:00,Living Room,0,18.4,79,0,Relaxing
+2025-04-05 23:36:00,Bathroom,1,24.4,29,0,Showering
+2025-04-02 11:13:00,Bedroom,1,18.2,81,1,Idle
+2025-04-07 03:58:00,Bathroom,1,26.9,39,0,Showering
+2025-04-07 15:18:00,Bathroom,1,26.6,20,1,Idle
+2025-04-04 07:25:00,Bathroom,1,25.3,25,0,Idle
+2025-04-04 02:45:00,Bedroom,0,27.7,97,1,Sleeping
+2025-04-05 01:12:00,Living Room,0,18.7,1,0,Relaxing
+2025-04-01 11:46:00,Bathroom,0,20.8,27,1,Idle
+2025-04-04 23:24:00,Bathroom,0,26.7,33,1,Showering
+2025-04-02 22:07:00,Bathroom,0,21.8,99,1,Using Toilet
+2025-04-06 22:58:00,Kitchen,1,27.7,74,1,Cleaning
+2025-04-05 21:19:00,Living Room,1,22.3,69,0,Relaxing
+2025-04-05 09:27:00,Bathroom,1,27.7,26,1,Idle
+2025-04-06 22:08:00,Bathroom,1,20.8,81,0,Idle
+2025-04-05 09:21:00,Bedroom,0,19.9,16,1,Sleeping
+2025-04-01 20:06:00,Kitchen,0,26.9,85,0,Idle
+2025-04-02 16:52:00,Living Room,1,22.9,93,1,Idle
+2025-04-07 13:55:00,Kitchen,1,27.6,98,1,Cooking
+2025-04-02 16:22:00,Bathroom,1,26.5,24,0,Idle
+2025-04-01 07:33:00,Bathroom,1,19.9,64,1,Idle
+2025-04-07 07:55:00,Bedroom,0,20.7,98,0,Reading
+2025-04-01 14:06:00,Living Room,1,20.2,35,0,Watching TV
+2025-04-03 11:33:00,Kitchen,0,22.6,12,1,Cleaning
+2025-04-05 00:08:00,Bedroom,1,24.2,62,1,Idle
+2025-04-04 07:28:00,Living Room,0,24.5,66,0,Idle
+2025-04-02 10:52:00,Bathroom,1,20.3,23,1,Showering
+2025-04-02 04:26:00,Kitchen,1,22.2,29,1,Cooking
+2025-04-03 00:49:00,Kitchen,0,19.4,90,1,Idle
+2025-04-07 17:29:00,Bathroom,1,27.6,16,1,Showering
+2025-04-02 05:31:00,Bedroom,0,22.2,54,0,Idle
+2025-04-06 21:14:00,Living Room,0,22.2,64,0,Relaxing
+2025-04-04 07:06:00,Kitchen,0,19.3,18,1,Idle
+2025-04-08 02:25:00,Bathroom,1,26.0,13,0,Using Toilet
+2025-04-01 13:34:00,Kitchen,0,24.5,41,1,Cleaning
+2025-04-04 09:03:00,Bedroom,0,25.1,53,0,Sleeping
+2025-04-07 04:39:00,Bathroom,1,27.3,34,1,Using Toilet
+2025-04-05 19:45:00,Kitchen,1,18.4,13,0,Idle
+2025-04-02 12:01:00,Kitchen,0,27.9,9,0,Cooking
+2025-04-01 07:16:00,Bedroom,1,21.7,66,1,Sleeping
+2025-04-01 14:46:00,Bedroom,0,19.7,25,0,Idle
+2025-04-01 17:26:00,Bedroom,1,21.4,62,1,Reading
+2025-04-05 23:58:00,Living Room,1,21.0,74,0,Watching TV
+2025-04-01 15:16:00,Kitchen,1,28.0,3,1,Idle
+2025-04-06 04:31:00,Living Room,0,22.8,36,0,Watching TV
+2025-04-03 08:15:00,Bathroom,0,27.8,66,0,Showering
+2025-04-08 03:13:00,Bedroom,1,25.4,40,1,Reading
+2025-04-06 10:11:00,Bedroom,0,25.5,76,0,Sleeping
+2025-04-04 10:01:00,Bathroom,1,19.9,80,0,Using Toilet
+2025-04-04 07:48:00,Bathroom,0,19.0,54,1,Using Toilet
+2025-04-05 17:27:00,Bathroom,1,19.1,81,0,Showering
+2025-04-05 05:23:00,Bathroom,0,25.6,5,1,Idle
+2025-04-06 09:05:00,Bathroom,1,27.6,17,1,Using Toilet
+2025-04-03 06:40:00,Kitchen,1,24.7,32,1,Cleaning
+2025-04-07 03:58:00,Kitchen,0,20.6,94,0,Idle
+2025-04-02 02:22:00,Kitchen,1,23.8,18,1,Cooking
+2025-04-05 23:03:00,Bathroom,0,23.1,42,1,Idle
+2025-04-02 06:54:00,Living Room,1,20.3,90,0,Idle
+2025-04-04 17:34:00,Living Room,1,18.2,70,1,Watching TV
+2025-04-07 07:43:00,Kitchen,1,19.6,67,0,Idle
+2025-04-05 11:35:00,Bedroom,1,24.9,57,1,Reading
+2025-04-06 18:49:00,Kitchen,0,20.6,95,0,Cooking
+2025-04-05 04:06:00,Bedroom,0,22.1,78,1,Sleeping
+2025-04-04 10:47:00,Living Room,1,23.9,50,1,Watching TV
+2025-04-05 07:18:00,Living Room,1,22.9,19,0,Relaxing
+2025-04-04 22:07:00,Kitchen,0,20.1,5,1,Cleaning
+2025-04-02 02:33:00,Living Room,1,21.1,20,1,Idle
+2025-04-01 20:59:00,Bedroom,1,22.6,52,0,Reading
+2025-04-02 02:41:00,Living Room,1,21.0,44,1,Relaxing
+2025-04-01 17:39:00,Living Room,0,23.1,35,0,Relaxing
+2025-04-06 12:48:00,Kitchen,0,25.3,18,0,Cooking
+2025-04-02 10:41:00,Bathroom,1,27.6,70,0,Idle
+2025-04-01 08:07:00,Kitchen,0,27.6,76,0,Cooking
+2025-04-03 21:33:00,Living Room,0,20.3,98,1,Watching TV
+2025-04-06 23:03:00,Bedroom,0,20.9,50,1,Idle
+2025-04-06 11:00:00,Living Room,1,21.0,84,0,Relaxing
+2025-04-02 02:11:00,Bathroom,0,18.4,38,1,Idle
+2025-04-06 18:24:00,Kitchen,1,18.8,2,1,Cleaning
+2025-04-03 21:06:00,Bedroom,1,25.6,59,0,Reading
+2025-04-05 22:10:00,Living Room,0,25.5,52,0,Idle
+2025-04-06 04:45:00,Bathroom,0,23.5,92,1,Idle
+2025-04-03 00:58:00,Kitchen,1,19.8,17,0,Idle
+2025-04-04 15:09:00,Kitchen,1,23.2,85,1,Cleaning
+2025-04-03 00:50:00,Bathroom,0,22.7,7,0,Using Toilet
+2025-04-04 06:32:00,Bedroom,0,23.8,14,1,Sleeping
+2025-04-02 22:44:00,Bathroom,0,26.4,91,1,Showering
+2025-04-02 21:54:00,Kitchen,1,27.1,83,0,Idle
+2025-04-02 04:25:00,Living Room,1,20.7,82,0,Idle
+2025-04-04 09:45:00,Kitchen,1,24.9,2,1,Idle
+2025-04-07 19:26:00,Bathroom,0,26.7,77,1,Idle
+2025-04-03 06:20:00,Bedroom,1,18.5,32,1,Idle
+2025-04-05 20:40:00,Kitchen,0,18.1,7,0,Cooking
+2025-04-05 01:27:00,Bathroom,0,24.1,86,1,Idle
+2025-04-05 13:57:00,Kitchen,0,24.4,84,1,Idle
+2025-04-04 23:16:00,Living Room,1,21.2,50,0,Idle
+2025-04-05 03:23:00,Kitchen,1,19.6,37,1,Cooking
+2025-04-04 04:28:00,Kitchen,0,26.5,38,0,Cooking
+2025-04-07 23:46:00,Living Room,1,26.8,7,0,Relaxing
+2025-04-04 16:54:00,Living Room,0,26.8,84,1,Relaxing
+2025-04-05 04:16:00,Living Room,1,20.2,16,0,Watching TV
+2025-04-04 18:31:00,Living Room,1,27.8,24,1,Relaxing
+2025-04-02 15:44:00,Bedroom,1,19.3,8,0,Reading
+2025-04-06 04:58:00,Bathroom,0,26.4,59,0,Idle
+2025-04-03 01:18:00,Living Room,1,18.8,11,0,Relaxing
+2025-04-05 17:28:00,Kitchen,0,18.4,48,0,Cleaning
+2025-04-04 19:52:00,Bedroom,1,21.4,1,0,Idle
+2025-04-01 10:51:00,Bedroom,1,21.7,61,1,Idle
+2025-04-02 14:18:00,Bedroom,1,27.9,10,0,Sleeping
+2025-04-05 10:02:00,Living Room,1,21.9,53,1,Idle
+2025-04-06 08:06:00,Bathroom,0,27.6,21,1,Showering
+2025-04-04 15:29:00,Bedroom,0,20.9,24,0,Idle
+2025-04-07 21:36:00,Bedroom,1,22.4,97,1,Sleeping
+2025-04-07 01:56:00,Bathroom,0,18.3,28,0,Idle
+2025-04-03 02:07:00,Living Room,0,21.0,43,1,Watching TV
+2025-04-02 18:14:00,Bathroom,0,22.5,45,0,Idle
+2025-04-04 23:26:00,Living Room,0,26.0,25,0,Idle
+2025-04-03 07:56:00,Living Room,0,25.8,42,0,Relaxing
+2025-04-04 08:18:00,Kitchen,0,20.0,10,0,Idle
+2025-04-02 23:04:00,Bedroom,1,19.5,51,1,Reading
+2025-04-06 05:58:00,Living Room,0,19.3,55,1,Idle
+2025-04-05 05:32:00,Living Room,1,18.1,75,1,Idle
+2025-04-03 08:10:00,Bathroom,0,21.0,46,0,Idle
+2025-04-06 20:34:00,Bedroom,0,27.6,7,0,Reading
+2025-04-05 00:27:00,Living Room,1,27.8,36,0,Relaxing
+2025-04-04 10:36:00,Bedroom,0,21.9,26,0,Idle
+2025-04-02 14:35:00,Living Room,1,27.2,34,1,Watching TV
+2025-04-06 05:01:00,Kitchen,0,21.4,29,1,Cooking
+2025-04-02 23:12:00,Bathroom,0,26.5,52,0,Showering
+2025-04-03 23:14:00,Kitchen,0,25.8,93,0,Cooking
+2025-04-01 08:05:00,Kitchen,0,18.0,54,0,Cleaning
+2025-04-02 08:35:00,Bedroom,1,27.1,31,0,Sleeping
+2025-04-06 04:45:00,Bedroom,1,25.3,8,1,Sleeping
+2025-04-06 20:28:00,Kitchen,1,19.4,64,0,Cooking
+2025-04-02 22:21:00,Living Room,1,24.6,94,0,Relaxing
+2025-04-01 17:12:00,Bathroom,0,23.0,59,1,Showering
+2025-04-06 15:14:00,Kitchen,0,19.7,13,1,Cleaning
+2025-04-03 14:06:00,Bedroom,1,22.2,22,0,Reading
+2025-04-01 13:57:00,Bedroom,1,25.4,76,0,Sleeping
+2025-04-05 23:04:00,Bedroom,0,21.0,26,1,Reading
+2025-04-03 17:04:00,Kitchen,0,22.6,7,1,Cooking
+2025-04-06 16:18:00,Kitchen,0,19.9,28,0,Idle
+2025-04-02 09:24:00,Kitchen,0,20.4,79,1,Cleaning
+2025-04-03 06:38:00,Kitchen,1,25.1,38,1,Idle
+2025-04-05 05:47:00,Kitchen,1,26.3,67,0,Idle
+2025-04-06 23:43:00,Bedroom,0,23.7,94,1,Sleeping
+2025-04-04 03:28:00,Bathroom,0,25.0,97,0,Using Toilet
+2025-04-01 13:19:00,Bathroom,0,21.7,28,0,Using Toilet
+2025-04-06 14:12:00,Bathroom,0,18.9,21,1,Using Toilet
+2025-04-03 13:23:00,Bedroom,0,21.4,96,0,Sleeping
+2025-04-01 23:43:00,Kitchen,0,19.8,44,0,Cooking
+2025-04-05 16:18:00,Bathroom,1,19.6,44,0,Using Toilet
+2025-04-05 06:24:00,Bathroom,0,24.4,43,0,Using Toilet
+2025-04-05 15:53:00,Kitchen,1,26.4,100,1,Cooking
+2025-04-07 09:23:00,Bedroom,1,25.4,64,1,Idle
+2025-04-03 17:06:00,Living Room,0,26.1,98,0,Relaxing
+2025-04-03 20:47:00,Kitchen,0,25.7,38,1,Cooking
+2025-04-02 23:10:00,Living Room,1,24.4,11,0,Relaxing
+2025-04-03 14:16:00,Kitchen,1,19.8,62,1,Cleaning
+2025-04-04 00:38:00,Bedroom,0,21.7,93,1,Idle
+2025-04-02 19:07:00,Living Room,1,26.6,50,1,Watching TV
+2025-04-03 21:58:00,Bedroom,0,25.0,49,1,Sleeping
+2025-04-07 01:27:00,Kitchen,1,20.0,30,0,Cooking
+2025-04-06 03:26:00,Bathroom,1,21.3,36,1,Using Toilet
+2025-04-07 23:59:00,Living Room,0,24.6,59,0,Watching TV
+2025-04-05 20:19:00,Kitchen,0,18.1,24,0,Idle
+2025-04-07 11:14:00,Bedroom,0,26.3,91,1,Sleeping
+2025-04-04 05:34:00,Bathroom,1,26.7,1,1,Using Toilet
+2025-04-03 11:31:00,Bathroom,0,20.4,94,0,Idle
+2025-04-04 05:44:00,Bedroom,0,28.0,39,0,Idle
+2025-04-02 08:44:00,Living Room,0,19.5,7,0,Idle
+2025-04-04 11:53:00,Kitchen,1,23.9,73,0,Idle
+2025-04-06 23:29:00,Living Room,0,18.3,86,1,Idle
+2025-04-08 01:25:00,Living Room,1,26.4,71,0,Idle
+2025-04-01 15:29:00,Bathroom,1,20.9,49,1,Idle
+2025-04-05 08:05:00,Bathroom,1,22.3,55,0,Idle
+2025-04-07 03:26:00,Bedroom,1,18.0,37,0,Sleeping
+2025-04-04 22:07:00,Bathroom,0,27.2,58,0,Idle
+2025-04-01 19:55:00,Kitchen,0,19.0,78,0,Idle
+2025-04-03 14:47:00,Living Room,1,23.6,8,0,Watching TV
+2025-04-01 17:52:00,Living Room,0,25.1,100,0,Watching TV
+2025-04-07 21:39:00,Bedroom,0,24.0,95,1,Idle
+2025-04-03 22:41:00,Bedroom,0,25.0,34,1,Reading
+2025-04-05 10:56:00,Bedroom,1,19.6,37,1,Sleeping
+2025-04-06 05:56:00,Kitchen,1,24.2,44,1,Cooking
+2025-04-05 23:33:00,Kitchen,1,27.4,0,1,Cleaning
+2025-04-07 07:53:00,Bathroom,1,21.7,0,0,Using Toilet
+2025-04-03 21:18:00,Bedroom,0,18.4,9,0,Reading
+2025-04-07 20:21:00,Bathroom,0,24.4,63,1,Showering
+2025-04-02 04:48:00,Bedroom,1,18.2,3,0,Reading
+2025-04-07 05:31:00,Living Room,0,25.0,17,1,Relaxing
+2025-04-05 20:37:00,Living Room,1,21.5,53,0,Watching TV
+2025-04-02 11:48:00,Bathroom,0,25.2,36,1,Showering
+2025-04-04 08:36:00,Living Room,0,21.4,35,0,Watching TV
+2025-04-03 10:33:00,Bedroom,1,19.0,18,0,Idle
+2025-04-03 03:02:00,Living Room,0,25.8,97,0,Watching TV
+2025-04-01 18:52:00,Kitchen,0,23.9,61,0,Cooking
+2025-04-06 16:00:00,Living Room,0,21.3,97,1,Idle
+2025-04-07 17:54:00,Bathroom,1,26.6,88,1,Showering
+2025-04-05 03:29:00,Kitchen,1,24.8,52,1,Cooking
+2025-04-04 21:08:00,Kitchen,0,23.3,86,1,Cooking
+2025-04-04 05:58:00,Bathroom,1,25.4,68,1,Showering
+2025-04-04 06:57:00,Living Room,1,23.6,34,1,Relaxing
+2025-04-02 11:09:00,Kitchen,0,23.6,26,1,Idle
+2025-04-06 15:53:00,Living Room,0,24.4,81,0,Relaxing
+2025-04-05 22:29:00,Bathroom,0,21.5,78,0,Using Toilet
+2025-04-06 14:05:00,Bedroom,1,20.2,6,0,Sleeping
+2025-04-07 20:30:00,Bedroom,1,20.5,19,0,Reading
+2025-04-03 13:05:00,Bedroom,1,25.4,80,1,Sleeping
+2025-04-06 09:50:00,Kitchen,1,20.1,70,1,Cooking
+2025-04-04 15:53:00,Bedroom,0,23.1,94,1,Idle
+2025-04-02 02:32:00,Living Room,0,26.7,23,0,Relaxing
+2025-04-05 05:27:00,Bedroom,1,21.0,40,0,Sleeping
+2025-04-07 15:12:00,Bedroom,0,20.7,89,0,Reading
+2025-04-04 03:09:00,Living Room,0,27.9,13,0,Idle
+2025-04-03 03:05:00,Bedroom,0,26.6,39,1,Sleeping
+2025-04-06 16:38:00,Bedroom,1,25.0,49,1,Sleeping
+2025-04-04 19:34:00,Kitchen,0,20.2,87,0,Idle
+2025-04-05 16:07:00,Living Room,0,25.1,65,0,Idle
+2025-04-05 15:13:00,Bedroom,0,25.6,93,0,Reading
+2025-04-02 15:21:00,Living Room,0,26.6,27,1,Idle
+2025-04-07 17:05:00,Living Room,0,20.6,79,1,Relaxing
+2025-04-05 11:12:00,Bedroom,0,23.5,45,1,Idle
+2025-04-06 20:27:00,Bathroom,1,23.3,15,1,Showering
+2025-04-01 20:30:00,Bathroom,0,21.6,3,0,Showering
+2025-04-06 16:11:00,Bedroom,0,27.7,83,0,Sleeping
+2025-04-04 23:35:00,Bathroom,0,26.1,44,0,Using Toilet
+2025-04-02 12:38:00,Living Room,1,18.0,69,0,Watching TV
+2025-04-02 11:30:00,Living Room,0,20.7,40,1,Watching TV
+2025-04-03 21:54:00,Bathroom,0,19.9,61,1,Idle
+2025-04-07 07:13:00,Kitchen,1,22.0,81,0,Idle
+2025-04-05 01:51:00,Bedroom,1,19.3,86,0,Sleeping
+2025-04-05 01:09:00,Bathroom,0,26.1,97,0,Idle
+2025-04-01 23:17:00,Kitchen,0,20.9,20,1,Cooking
+2025-04-07 02:30:00,Living Room,0,18.2,96,1,Relaxing
+2025-04-07 10:26:00,Bedroom,0,25.3,43,0,Idle
+2025-04-03 18:57:00,Living Room,0,26.4,76,0,Idle
+2025-04-04 04:11:00,Living Room,1,18.7,65,0,Relaxing
+2025-04-06 12:20:00,Bedroom,1,20.0,13,0,Idle
+2025-04-05 09:14:00,Bathroom,1,21.2,15,0,Using Toilet
+2025-04-08 02:28:00,Bedroom,0,19.1,98,1,Idle
+2025-04-03 02:00:00,Bedroom,1,23.1,43,0,Idle
+2025-04-05 21:35:00,Living Room,0,26.5,34,0,Watching TV
+2025-04-07 18:54:00,Living Room,0,18.5,59,1,Idle
+2025-04-05 07:25:00,Bedroom,1,22.0,19,1,Reading
+2025-04-01 07:32:00,Living Room,1,26.6,78,0,Watching TV
+2025-04-07 14:37:00,Kitchen,0,22.4,54,1,Cleaning
+2025-04-02 19:21:00,Living Room,1,27.5,48,0,Idle
+2025-04-01 23:45:00,Bedroom,1,18.8,33,0,Sleeping
+2025-04-06 03:42:00,Bedroom,0,26.8,46,0,Idle
+2025-04-06 23:43:00,Kitchen,0,26.1,42,0,Cleaning
+2025-04-06 19:25:00,Kitchen,0,21.5,85,0,Idle
+2025-04-02 14:41:00,Living Room,1,25.3,75,1,Idle
+2025-04-06 23:16:00,Bathroom,1,22.5,64,1,Showering
+2025-04-06 13:43:00,Bedroom,1,22.5,48,1,Idle
+2025-04-03 21:33:00,Bathroom,1,22.3,15,0,Showering
+2025-04-08 00:00:00,Bedroom,0,27.9,11,1,Sleeping
+2025-04-05 08:46:00,Living Room,1,23.3,74,0,Idle
+2025-04-03 12:31:00,Living Room,1,25.0,12,1,Idle
+2025-04-06 12:57:00,Living Room,1,19.2,99,0,Idle
+2025-04-04 20:42:00,Living Room,0,18.6,31,1,Watching TV
+2025-04-06 23:18:00,Bedroom,0,24.9,56,1,Sleeping
+2025-04-05 14:13:00,Living Room,1,24.1,68,0,Watching TV
+2025-04-02 03:35:00,Living Room,1,27.5,47,1,Idle
+2025-04-06 14:21:00,Bathroom,0,24.9,37,0,Idle
+2025-04-05 20:59:00,Kitchen,0,18.9,3,1,Idle
+2025-04-04 14:04:00,Kitchen,0,24.6,36,0,Idle
+2025-04-02 05:37:00,Bathroom,1,22.2,76,0,Showering
+2025-04-04 07:25:00,Kitchen,1,22.8,57,0,Cleaning
+2025-04-04 06:25:00,Bedroom,0,24.0,56,1,Reading
+2025-04-03 09:37:00,Living Room,1,21.4,56,0,Idle
+2025-04-03 21:50:00,Kitchen,0,26.5,38,1,Cooking
+2025-04-04 00:03:00,Bedroom,1,23.7,30,0,Reading
+2025-04-03 02:39:00,Bedroom,0,24.5,36,1,Idle
+2025-04-05 19:26:00,Living Room,1,18.5,1,0,Relaxing
+2025-04-05 02:51:00,Kitchen,1,24.6,85,0,Cleaning
+2025-04-06 15:04:00,Bedroom,0,27.2,81,0,Reading
+2025-04-04 19:20:00,Kitchen,1,20.1,73,0,Idle
+2025-04-04 04:42:00,Bedroom,0,26.4,89,1,Reading
+2025-04-07 04:16:00,Kitchen,1,20.7,72,0,Cleaning
+2025-04-05 01:11:00,Living Room,0,18.8,13,1,Idle
+2025-04-04 17:23:00,Bedroom,1,27.4,47,1,Reading
+2025-04-01 09:56:00,Bedroom,1,27.1,15,1,Reading
+2025-04-07 12:45:00,Kitchen,1,25.1,2,0,Cleaning
+2025-04-01 07:19:00,Kitchen,0,26.0,80,0,Cleaning
+2025-04-05 05:50:00,Bathroom,1,20.0,71,1,Using Toilet
+2025-04-08 00:29:00,Bathroom,0,24.3,42,1,Idle
+2025-04-04 21:12:00,Bathroom,1,25.6,58,0,Idle
+2025-04-03 06:04:00,Bedroom,1,23.8,31,0,Sleeping
+2025-04-06 15:31:00,Kitchen,0,21.3,86,0,Cleaning
+2025-04-07 06:17:00,Kitchen,1,18.5,47,1,Idle
+2025-04-02 09:53:00,Kitchen,1,26.1,33,1,Idle
+2025-04-04 14:49:00,Bathroom,1,20.8,17,0,Showering
+2025-04-03 20:52:00,Bedroom,0,23.3,75,0,Reading
+2025-04-02 23:18:00,Bedroom,1,26.9,27,0,Sleeping
+2025-04-02 16:24:00,Living Room,1,25.7,64,0,Relaxing
+2025-04-07 10:09:00,Living Room,0,18.7,36,0,Relaxing
+2025-04-06 23:42:00,Bathroom,0,24.1,23,0,Showering
+2025-04-04 23:32:00,Living Room,1,20.7,31,0,Watching TV
+2025-04-01 23:35:00,Living Room,1,19.3,10,1,Relaxing
+2025-04-06 15:26:00,Living Room,0,26.2,79,0,Relaxing
+2025-04-03 14:09:00,Bedroom,1,21.2,37,1,Sleeping
+2025-04-05 15:18:00,Bedroom,1,27.6,79,1,Reading
+2025-04-06 08:00:00,Bathroom,0,22.7,73,0,Idle
+2025-04-07 17:05:00,Living Room,1,25.0,78,0,Watching TV
+2025-04-02 05:37:00,Kitchen,0,21.0,82,0,Cooking
+2025-04-03 21:00:00,Living Room,0,23.6,25,1,Relaxing
+2025-04-07 03:11:00,Living Room,0,22.1,7,0,Watching TV
+2025-04-01 17:12:00,Bedroom,0,19.5,78,1,Idle
+2025-04-07 02:37:00,Kitchen,1,18.1,41,0,Cooking
+2025-04-05 07:55:00,Kitchen,1,20.5,11,0,Cooking
+2025-04-07 22:01:00,Kitchen,1,18.9,42,0,Cleaning
+2025-04-05 13:12:00,Living Room,1,26.0,23,1,Watching TV
+2025-04-05 18:35:00,Bathroom,0,23.4,99,1,Showering
+2025-04-01 22:19:00,Bathroom,1,25.8,51,0,Idle
+2025-04-03 20:46:00,Bedroom,0,19.2,20,0,Sleeping
+2025-04-07 23:26:00,Bedroom,0,25.0,89,1,Sleeping
+2025-04-06 15:28:00,Kitchen,0,25.6,14,0,Idle
+2025-04-05 14:21:00,Bedroom,1,25.1,44,0,Idle
+2025-04-01 18:23:00,Kitchen,1,18.6,93,1,Cleaning
+2025-04-01 10:16:00,Bedroom,0,19.4,59,1,Sleeping
+2025-04-05 07:11:00,Living Room,0,21.0,62,1,Relaxing
+2025-04-04 15:57:00,Bedroom,0,25.3,90,0,Idle
+2025-04-03 20:55:00,Living Room,0,26.6,7,0,Watching TV
+2025-04-08 02:40:00,Living Room,1,27.5,96,1,Relaxing
+2025-04-05 12:03:00,Kitchen,0,24.2,9,1,Cooking
+2025-04-03 16:23:00,Living Room,1,24.7,40,0,Idle
+2025-04-06 10:24:00,Bedroom,1,27.3,3,0,Idle
+2025-04-08 00:04:00,Bedroom,1,20.4,90,1,Idle
+2025-04-08 02:01:00,Living Room,1,27.6,23,0,Watching TV
+2025-04-05 18:20:00,Living Room,1,25.0,96,0,Idle
+2025-04-08 01:51:00,Living Room,0,21.4,91,1,Watching TV
+2025-04-04 06:14:00,Living Room,0,26.1,2,0,Idle
+2025-04-04 22:37:00,Bathroom,1,22.1,35,0,Using Toilet
+2025-04-05 12:38:00,Bedroom,0,21.0,11,0,Sleeping
+2025-04-01 15:00:00,Living Room,1,21.4,0,1,Idle
+2025-04-03 01:36:00,Living Room,0,22.7,42,0,Watching TV
+2025-04-06 02:00:00,Bedroom,1,23.2,34,1,Sleeping
+2025-04-02 05:22:00,Kitchen,1,24.2,91,0,Cleaning
+2025-04-05 17:53:00,Bathroom,0,20.4,89,1,Showering
+2025-04-07 05:27:00,Bedroom,1,19.7,89,0,Idle
+2025-04-06 15:16:00,Kitchen,0,18.3,35,1,Cooking
+2025-04-03 20:12:00,Kitchen,1,20.8,47,0,Idle
+2025-04-02 11:32:00,Kitchen,1,23.8,78,0,Cleaning
+2025-04-06 21:59:00,Kitchen,0,27.8,3,0,Idle
+2025-04-01 06:21:00,Bathroom,1,19.4,4,1,Using Toilet
+2025-04-05 06:29:00,Bathroom,0,27.2,96,0,Idle
+2025-04-08 03:29:00,Living Room,0,18.5,70,1,Watching TV
+2025-04-03 18:04:00,Bathroom,0,24.2,47,1,Showering
+2025-04-04 21:44:00,Kitchen,0,19.2,65,0,Idle
+2025-04-06 09:53:00,Kitchen,1,19.1,97,1,Idle
+2025-04-01 10:00:00,Bathroom,1,27.1,5,0,Showering
+2025-04-03 09:47:00,Kitchen,1,19.0,53,0,Cleaning
+2025-04-06 13:03:00,Bedroom,0,21.4,45,0,Sleeping
+2025-04-03 17:30:00,Bedroom,0,22.9,42,1,Reading
+2025-04-02 20:04:00,Living Room,1,26.0,75,0,Watching TV
+2025-04-03 00:42:00,Kitchen,1,23.4,20,1,Cleaning
+2025-04-04 02:49:00,Kitchen,0,25.2,72,0,Idle
+2025-04-02 16:03:00,Bathroom,0,20.0,23,0,Idle
+2025-04-07 09:29:00,Living Room,0,20.4,15,0,Idle
+2025-04-04 20:29:00,Bedroom,0,23.4,31,0,Reading
+2025-04-07 11:49:00,Bathroom,1,22.6,98,1,Showering
+2025-04-04 21:13:00,Kitchen,1,25.5,20,0,Cooking
+2025-04-07 06:24:00,Living Room,0,23.8,2,1,Relaxing
+2025-04-07 00:56:00,Bedroom,1,20.4,35,1,Idle
+2025-04-04 23:17:00,Bathroom,1,27.4,37,1,Showering
+2025-04-07 08:55:00,Bedroom,0,25.4,74,1,Sleeping
+2025-04-06 22:04:00,Living Room,0,20.5,93,1,Relaxing
+2025-04-03 20:39:00,Bathroom,0,21.4,40,1,Using Toilet
+2025-04-01 15:12:00,Bedroom,1,18.5,10,0,Reading
+2025-04-07 09:35:00,Kitchen,0,18.5,16,1,Cooking
+2025-04-04 13:57:00,Living Room,0,18.3,29,1,Relaxing
+2025-04-03 20:16:00,Kitchen,0,21.7,67,1,Idle
+2025-04-05 10:22:00,Living Room,1,23.0,41,1,Idle
+2025-04-01 06:37:00,Living Room,1,26.7,25,0,Idle
+2025-04-03 05:36:00,Bathroom,0,23.4,19,1,Using Toilet
+2025-04-06 15:38:00,Kitchen,1,24.9,14,1,Cleaning
+2025-04-01 07:20:00,Living Room,1,25.3,71,0,Relaxing
+2025-04-06 13:08:00,Bathroom,0,27.7,97,1,Using Toilet
+2025-04-04 10:02:00,Bedroom,0,24.7,78,1,Reading
+2025-04-05 05:11:00,Living Room,1,21.9,21,1,Watching TV
+2025-04-05 15:10:00,Kitchen,0,19.7,52,0,Cleaning
+2025-04-07 20:56:00,Bathroom,1,27.2,86,0,Showering
+2025-04-03 15:49:00,Bathroom,0,21.9,37,0,Showering
+2025-04-03 18:51:00,Bedroom,1,18.8,92,0,Idle
+2025-04-05 03:51:00,Bathroom,1,26.4,93,1,Showering
+2025-04-08 03:13:00,Bedroom,1,26.7,25,0,Idle
+2025-04-03 11:49:00,Bedroom,0,25.0,72,1,Reading
+2025-04-02 21:48:00,Bedroom,1,26.1,67,0,Sleeping
+2025-04-04 18:27:00,Kitchen,1,22.0,67,0,Idle
+2025-04-04 01:35:00,Living Room,0,22.6,33,1,Watching TV
+2025-04-05 00:54:00,Bathroom,1,26.2,91,0,Idle
+2025-04-06 09:23:00,Bedroom,1,23.7,82,0,Idle
+2025-04-01 13:51:00,Bathroom,0,26.6,65,0,Idle
+2025-04-07 03:41:00,Bathroom,1,20.8,95,1,Showering
+2025-04-05 01:23:00,Living Room,0,22.9,47,1,Relaxing
+2025-04-04 22:20:00,Bedroom,1,19.0,59,1,Reading
+2025-04-03 18:35:00,Living Room,0,21.4,71,1,Relaxing
+2025-04-04 20:18:00,Bathroom,1,22.2,0,0,Showering
+2025-04-07 00:27:00,Kitchen,0,20.2,74,0,Cooking
+2025-04-04 06:36:00,Living Room,1,19.7,36,1,Watching TV
+2025-04-05 04:53:00,Bedroom,0,23.4,12,0,Idle
+2025-04-05 23:38:00,Bedroom,1,28.0,67,1,Reading
+2025-04-03 10:40:00,Living Room,0,22.7,54,0,Idle
+2025-04-06 07:44:00,Bedroom,0,20.6,81,0,Idle
+2025-04-06 00:09:00,Living Room,0,20.8,15,0,Watching TV
+2025-04-03 12:33:00,Kitchen,0,21.7,100,1,Cleaning
+2025-04-01 09:56:00,Bedroom,0,21.1,3,0,Reading
+2025-04-06 08:22:00,Bathroom,1,22.6,50,1,Idle
+2025-04-07 10:31:00,Kitchen,1,22.0,26,0,Cleaning
+2025-04-04 06:30:00,Bathroom,1,23.3,14,0,Showering
+2025-04-07 14:40:00,Living Room,0,22.5,34,0,Relaxing
+2025-04-03 11:39:00,Living Room,0,18.6,11,1,Relaxing
+2025-04-04 12:20:00,Bedroom,0,18.2,96,0,Reading
+2025-04-04 02:17:00,Bedroom,1,20.8,50,0,Reading
+2025-04-04 15:54:00,Living Room,0,18.1,52,1,Watching TV
+2025-04-07 22:19:00,Bathroom,1,18.7,80,1,Idle
+2025-04-04 06:57:00,Living Room,1,26.6,50,0,Watching TV
+2025-04-03 05:46:00,Bathroom,0,21.6,86,1,Using Toilet
+2025-04-06 11:51:00,Bathroom,1,21.8,87,1,Idle
+2025-04-03 14:47:00,Kitchen,1,21.6,56,1,Idle
+2025-04-02 09:54:00,Bedroom,0,21.4,17,1,Reading
